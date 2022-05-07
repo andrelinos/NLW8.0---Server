@@ -38,13 +38,13 @@ Descrição do projeto
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Envio de comentários para o mailtrap;\
-:heavy_check_mark: Salva em banco de dados;
-:heavy_check_mark: Testes de funcionalidades;\
+:heavy_check_mark: Envio de comentários para o mailtrap\
+:heavy_check_mark: Salva em banco de dados\
+:heavy_check_mark: Testes de funcionalidades
 
 ## :rocket: Tecnologias ##
 
-The following tools were used in this project:
+Confira abaixo as tecnologias utilizadas:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -57,29 +57,30 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requisitos ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Antes de iniciar, :checkered_flag: você precisa ter instalado o
+o[Git](https://git-scm.com) e o [Node](https://nodejs.org/en/).
 
 ## :checkered_flag: Iniciando ##
 
 ```bash
-# Clone this project
+# Clone o projeto
 $ git clone https://github.com/andrelinos/NLW8.0-Server
 
-# Access
+# Acesse
 $ cd server
 
-# Install dependencies
+# Instale as dependências 
 $ yarn
 
-# Run the project
+# Execute o projeto
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# O server HTTP estará disponível em <http://localhost:3000>
 ```
 
 ## :memo: Licença ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Este projeto está sob licença MIT. Para maiores detalhes, veja o arquivo [LICENSE](LICENSE.md).
 
 Feito com :heart: por <a href="https://github.com/andrelinos" target="_blank">Andrelino Silva</a>
 
