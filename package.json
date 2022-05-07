@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrelinos/Ignite-Lab-042022.git"
+    "url": "git+https://github.com/andrelinos/NLW8.0-Server.git"
   },
   "bugs": {
-    "url": "https://github.com/andrelinos/Ignite-Lab-042022/issues"
+    "url": "https://github.com/andrelinos/NLW8.0-Server/issues"
   },
-  "homepage": "https://github.com/andrelinos/Ignite-Lab-042022#readme",
+  "homepage": "https://github.com/andrelinos/NLW8.0-Server#readme",
   "description": "Aplicação desenvolvida na NLW-08 - Impulse"
 }

@@ -21,12 +21,12 @@
 <hr>
 
 <p align="center">
-  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requisistos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Iniciando</a> &#xa0; | &#xa0;
-  <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requisitos">Requisistos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
+  <a href="#memo-licen%C3%A7a">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/andrelinos" target="_blank">Autor</a>
 </p>
 
@@ -48,6 +48,12 @@ The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+- [Express](http://expressjs.com/)
+- [ts-node](https://typestrong.org/ts-node/)
+- [Nodemailer](https://nodemailer.com/)
+- [Jest](https://jestjs.io/)
+- [Jest](https://jestjs.io/)
 
 ## :white_check_mark: Requisitos ##
 
