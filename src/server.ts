@@ -16,7 +16,7 @@ app.use(express.text({ limit: '200mb' }));
 app.use(cors());
 app.use(routes);
 
-app.listen(process.env.SERVER_API_PORT || 3333, () => {
+app.listen(process.env.PORT || 3333, () => {
     console.log(
         '🔥 HTTP server is running on port 3333 🚀 | Feito com 💜 por Andrelino Silva',
     );
