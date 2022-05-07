@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -30,5 +29,14 @@
     "dotenv": "^16.0.0",
     "express": "^4.18.1",
     "nodemailer": "^6.7.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelinos/Ignite-Lab-042022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrelinos/Ignite-Lab-042022/issues"
+  },
+  "homepage": "https://github.com/andrelinos/Ignite-Lab-042022#readme",
+  "description": "Aplicação desenvolvida na NLW-08 - Impulse"
 }

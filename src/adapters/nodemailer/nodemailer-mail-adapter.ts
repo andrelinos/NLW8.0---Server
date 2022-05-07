@@ -13,8 +13,8 @@ var transport = nodemailer.createTransport({
 export class NodemailerMailAdapter implements MailAdapter {
     async sendMail({ subject, body }: SendMailData) {
         await transport.sendMail({
-            from: 'Equipe Feedget <oi@geedget.com>',
-            to: 'Leandro <jlaleandro@gmail.com',
+            from: process.env.MAIL_TRAP_FROM,
+            to: process.env.MAIL_TRAP_TO,
             subject,
             html: body,
         });
