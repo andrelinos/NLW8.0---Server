@@ -18,7 +18,7 @@
    <img alt="Github stars" src="https://img.shields.io/github/stars/andrelinos/NLW8.0-Server?color=56BEB8" />
 </p>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
@@ -46,10 +46,7 @@ Descrição do projeto
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requisitos ##
