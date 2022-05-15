@@ -64,10 +64,10 @@ o[Git](https://git-scm.com) e o [Node](https://nodejs.org/en/).
 
 ```bash
 # Clone o projeto
-$ git clone https://github.com/andrelinos/NLW8.0-Server
+$ git clone https://github.com/andrelinos/nlw-return-impulse-server.git
 
 # Acesse
-$ cd server
+$ cd nlw-return-impulse-server
 
 # Instale as dependências 
 $ yarn
